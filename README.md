@@ -54,9 +54,24 @@ Motto       : "Connecting communities, empowering progress."
 
 ---
 
+# &#10024; WHY CHOOSE US
+
+<div align="center">
+
+|  |  |
+|:--:|:--|
+| &#9889; | **Fiber Optic Speed** &mdash; direct fiber connection to your home |
+| &#128246; | **Stable Connection** &mdash; a reliable, low-latency network |
+| &#128736;&#65039; | **Responsive Support** &mdash; a technical team ready to help |
+| &#129309; | **Customer First** &mdash; friendly, people-powered service |
+
+</div>
+
+---
+
 # &#128736; OUR TECHNOLOGY
 
-> We don't just provide internet — we **build &amp; operate our own network management (NOC) system.**
+> We don't just provide internet &mdash; we **build &amp; operate our own network management (NOC) system.**
 
 <div align="center">
 
@@ -80,10 +95,39 @@ Motto       : "Connecting communities, empowering progress."
 
 # &#9889; WHAT WE BUILD
 
-* &#128202; **NOC Dashboard** — **real-time** network monitoring (customer map, online/offline triggers, network health)
-* &#129302; **Telegram Technician Bot** — check customer connection &amp; location directly from the field
-* &#128451;&#65039; **Centralized Customer Database** — installation, billing, device &amp; location data
-* &#128225; **MikroTik Integration** — automatic PPPoE session &amp; ONT signal monitoring
+* &#128202; **NOC Dashboard** &mdash; **real-time** network monitoring (customer map, online/offline triggers, network health)
+* &#129302; **Telegram Technician Bot** &mdash; check customer connection &amp; location directly from the field
+* &#128451;&#65039; **Centralized Customer Database** &mdash; installation, device &amp; location data
+* &#128225; **MikroTik Integration** &mdash; automatic PPPoE session &amp; ONT signal monitoring
+
+---
+
+# &#128295; HOW TO GET CONNECTED
+
+<div align="center">
+
+```mermaid
+graph LR
+  A["&#128222; Contact Us"] --> B["&#128205; Site Survey"]
+  B --> C["&#128736;&#65039; Installation"]
+  C --> D["&#127760; Get Online"]
+```
+
+</div>
+
+**Getting connected is simple** &mdash; reach out, we survey your location, our technician installs the fiber, and you're ready to enjoy a fast connection.
+
+---
+
+# &#128153; OUR COMMITMENT
+
+<div align="center">
+
+<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,100:22d3ee&height=3&section=header"/>
+
+</div>
+
+We are committed to keeping our customers **connected and cared for**. Every connection is monitored, every issue is handled quickly by our team, and every customer is treated like a neighbor &mdash; because that's exactly who they are.
 
 ---
 
