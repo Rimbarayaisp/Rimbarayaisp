@@ -1,42 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:10b981,100:22d3ee&height=230&section=header&text=RIMBA%20RAYA%20ISP&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Internet%20Fiber%20Optic%20%7C%20Kalimantan%20Barat&descAlignY=60&descSize=20&descColor=e6fff7" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=680&lines=Cepat+%E2%80%A2+Stabil+%E2%80%A2+Terjangkau;Melayani+Kubu+Raya+%26+Pontianak;Kami+Bangun+Sistem+NOC+Sendiri" alt="typing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04060f,20:0b3d2e,45:0d9488,75:22d3ee,100:000000&height=260&section=header&text=RIMBA%20RAYA%20ISP&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Internet%20Fiber%20Optic%20%E2%80%A2%20Kalimantan%20Barat&descSize=16&descColor=a7f3d0&descAlignY=57"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=680&lines=Cepat+%E2%80%A2+Stabil+%E2%80%A2+Terjangkau;Melayani+Kubu+Raya+%26+Pontianak;Kami+Bangun+Sistem+NOC+Sendiri" alt="typing"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rimbarayaisp&label=Kunjungan&color=10b981&style=for-the-badge)
-![Fiber Optic](https://img.shields.io/badge/Fiber_Optic-FTTH-22d3ee?style=for-the-badge)
-![Wilayah](https://img.shields.io/badge/Wilayah-15%2B-10b981?style=for-the-badge)
-![Est](https://img.shields.io/badge/Est.-2026-f59e0b?style=for-the-badge)
+<br/><br/>
 
-<br/>
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Pemasangan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62XXXXXXXXXX)
-[![Website](https://img.shields.io/badge/Website-Coming_Soon-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-@rimbarayaisp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Hubungi_Kami-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rimbarayaisp.id)
+<a href="https://wa.me/62XXXXXXXXXX">
+<img src="https://img.shields.io/badge/WHATSAPP-PEMASANGAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=04060f"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/WEBSITE-COMING_SOON-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=04060f"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/INSTAGRAM-@RIMBARAYAISP-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=04060f"/>
+</a>
+<a href="mailto:mimpimudacreative@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-HUBUNGI_KAMI-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=04060f"/>
+</a>
 
 </div>
 
 ---
 
-## &#127760; TENTANG KAMI
+# &#127760; TENTANG KAMI
 
-```yaml
-Perusahaan : Rimba Raya ISP
-Dikelola   : CV Mimpi Muda Creative
-Layanan    : Internet Fiber Optic (FTTH)
-Cakupan    : Kubu Raya & Pontianak, Kalimantan Barat 🇮🇩
-Motto      : "Menghubungkan desa, mempercepat kemajuan."
+```bash
+> whoami
+
+Perusahaan  : Rimba Raya ISP
+Dikelola    : CV Mimpi Muda Creative
+Layanan     : Internet Fiber Optic (FTTH)
+Cakupan     : Kubu Raya & Pontianak, Kalimantan Barat 🇮🇩
+Motto       : "Menghubungkan desa, mempercepat kemajuan."
 ```
 
-**Rimba Raya ISP** menghadirkan koneksi internet **cepat, stabil, dan terjangkau** hingga ke pelosok Kalimantan Barat — dengan jaringan fiber optic modern dan layanan yang dikelola secara profesional.
+**Rimba Raya ISP** menghadirkan koneksi internet **cepat, stabil, dan terjangkau** hingga ke pelosok Kalimantan Barat — didukung jaringan fiber optic modern &amp; sistem monitoring yang kami bangun sendiri.
 
 ---
 
-## &#128225; PAKET LAYANAN
+# &#128225; PAKET LAYANAN
 
 <div align="center">
 
@@ -51,60 +54,87 @@ Motto      : "Menghubungkan desa, mempercepat kemajuan."
 
 ---
 
-## &#128506;&#65039; WILAYAH LAYANAN
-
-<div align="center">
-
-![](https://img.shields.io/badge/Desa_Kapur-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Sungai_Asam-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Kelapa_Dua-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Sungai_Raya-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Rasau_Jaya-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Sungai_Kakap-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Punggur-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Kuala_Dua-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Arang_Limbung-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Teluk_Kapuas-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Sungai_Ambawang-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Korek-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Mega_Timur-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Parit_Baru-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Kapur_Hulu-1f2937?style=flat-square)
-
-</div>
-
----
-
-## &#128295; TEKNOLOGI KAMI
+# &#128736; TEKNOLOGI KAMI
 
 > Kami tidak hanya menyediakan internet — kami **membangun &amp; mengoperasikan sistem manajemen jaringan (NOC) sendiri.**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,tailwind,typescript,javascript,python,fastapi,supabase,postgres,sqlite,linux,git,github&perline=6" />
+### &#127760; PLATFORM &amp; SISTEM
+
+<img src="https://skillicons.dev/icons?i=vue,tailwind,typescript,javascript,python,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,linux,git,github&theme=dark"/>
 
 <br/><br/>
 
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+### &#128225; JARINGAN &amp; OTOMASI
+
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 </div>
 
 ---
 
-## &#9889; SISTEM YANG KAMI BANGUN
+# &#9889; SISTEM YANG KAMI BANGUN
 
-- &#128202; **NOC Dashboard** — monitoring status jaringan **real-time** (peta pelanggan, trigger online/offline, kesehatan jaringan per wilayah)
-- &#129302; **Bot Telegram Teknisi** — cek status koneksi &amp; lokasi pelanggan langsung dari lapangan
-- &#128451;&#65039; **Database Pelanggan Terpusat** — data instalasi, billing, perangkat &amp; koordinat
-- &#128225; **Integrasi MikroTik** — pemantauan sesi PPPoE &amp; sinyal ONT otomatis
+* &#128202; **NOC Dashboard** — monitoring status jaringan **real-time** (peta pelanggan, trigger online/offline, kesehatan jaringan per wilayah)
+* &#129302; **Bot Telegram Teknisi** — cek status koneksi &amp; lokasi pelanggan langsung dari lapangan
+* &#128451;&#65039; **Database Pelanggan Terpusat** — data instalasi, billing, perangkat &amp; koordinat
+* &#128225; **Integrasi MikroTik** — pemantauan sesi PPPoE &amp; sinyal ONT otomatis
+
+---
+
+# &#128506;&#65039; WILAYAH LAYANAN
+
+<div align="center">
+
+![](https://img.shields.io/badge/Desa_Kapur-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Sungai_Asam-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Kelapa_Dua-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Sungai_Raya-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Rasau_Jaya-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Sungai_Kakap-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Punggur-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Kuala_Dua-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Arang_Limbung-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Teluk_Kapuas-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Sungai_Ambawang-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Korek-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Mega_Timur-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Parit_Baru-0b3d2e?style=flat-square)
+![](https://img.shields.io/badge/Kapur_Hulu-0b3d2e?style=flat-square)
+
+</div>
+
+---
+
+# &#128173; FILOSOFI KAMI
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=MENGHUBUNGKAN+DESA.;MEMPERCEPAT+KEMAJUAN.;INTERNET+CEPAT+UNTUK+SEMUA."/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>&#169; 2026 <b>Rimba Raya ISP</b> &mdash; CV Mimpi Muda Creative &middot; Dibuat dengan &#10084;&#65039; di Kalimantan Barat</sub>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:134e4a&height=120&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d9488,100:04060f&height=120&section=footer"/>
+
+### &#9889; "MENGHUBUNGKAN DESA, MEMPERCEPAT KEMAJUAN."
+
+<img src="https://komarev.com/ghpvc/?username=Rimbarayaisp&style=for-the-badge&color=10b981&label=KUNJUNGAN+PROFIL"/>
+
+<sub>&#169; 2026 <b>Rimba Raya ISP</b> &mdash; CV Mimpi Muda Creative &middot; Kalimantan Barat &#127470;&#127465;</sub>
+
+</div>
